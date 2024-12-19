@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning the world of coding
 - 📫 How to reach me dayoungpeace@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm Korean!
+- ⚡ Fun fact: My hobby is knitting and climbing!
 
