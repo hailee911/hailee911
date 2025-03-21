@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hailee911 Da-young (Peace / Hailee)
-- 👀 I’m interested in Python, UX/UI, Database, Unreal Software Developer. 
+- 👋 Hi, I’m @hailee911 Da-young (Hailee)
+- 👀 I’m interested in Full Stack Developing
 - 🌱 I’m currently learning the world of coding
 - 📫 How to reach me dayoungpeace@gmail.com
 - 😄 Pronouns: She/Her
